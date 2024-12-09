@@ -1,0 +1,23 @@
+------------------------------------------------------ 
+Name: SDFG 
+------------------------------------------------------ 
+
+Windows-IP-Konfiguration
+
+
+Ethernet-Adapter Ethernet:
+
+   Verbindungsspezifisches DNS-Suffix: speedport.ip
+   IPv6-Adresse. . . . . . . . . . . : 2003:d2:3f23:80bf:be97:17:10cd:11fe
+   Tempor„re IPv6-Adresse. . . . . . : 2003:d2:3f02:babb:b1c6:8d0e:e931:67e
+   IPv6-Adresse. . . . . . . . . . . : 2003:d2:3f02:babb:bf5d:8236:97cf:cd87
+   IPv6-Adresse. . . . . . . . . . . : 2003:d2:3f22:cdd0:4acd:5175:81be:e242
+   Tempor„re IPv6-Adresse. . . . . . : 2003:d2:3f22:cdd0:b1c6:8d0e:e931:67e
+   Tempor„re IPv6-Adresse. . . . . . : 2003:d2:3f23:80bf:b1c6:8d0e:e931:67e
+   Tempor„re IPv6-Adresse. . . . . . : 2003:d2:3f24:b2c2:b1c6:8d0e:e931:67e
+   IPv6-Adresse. . . . . . . . . . . : 2003:d2:3f24:b2c2:c90a:d6e:6572:77d1
+   Verbindungslokale IPv6-Adresse  . : fe80::28:73f:6f1e:fd39%8
+   IPv4-Adresse  . . . . . . . . . . : 192.168.2.128
+   Subnetzmaske  . . . . . . . . . . : 255.255.255.0
+   Standardgateway . . . . . . . . . : fe80::1%8
+                                       192.168.2.1
